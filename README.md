@@ -5,6 +5,48 @@
     </td>
     <td valign="top" style="padding-left: 20px;">
       <h1>Hi, I'm Teo Jia Ling (Jayelle) 👋</h1>
+      <p>Welcome to my GitHub Projects Page! <br><br><b> I'm passionate about data analysis, visualization, and making sense of complicated numbers. </b>
+        ---
+        <br><br> Feel free to explore my portfolio, projects, visualizations, and deployed apps below.</p>
+    </td>
+  </tr>
+</table>
+
+
+# Projects Documentation & Apps Created 
+
+Welcome to my GitHub! I'm passionate about data analysis, visualization, and building impactful applications. Feel free to explore my portfolio, projects, visualizations, and deployed apps below.
+
+---
+
+## 🌐 Portfolio
+- [Personal Portfolio Website](https://jayelle0609.github.io/jialing/)
+
+## 📂 GitHub Projects
+1. [Prediction of HDB Resale Prices](https://github.com/jayelle0609/HDB_Historical_Price_Analysis/tree/main)  
+2. [Graduate Employment Analysis](https://github.com/jayelle0609/Graduate_Employment_Analysis)  
+3. [Student Test Scores Analysis](https://github.com/jayelle0609/Test_scores_analysis)  
+
+## 📊 Tableau Visualizations
+- [My Tableau Public Profile & Visualizations](https://public.tableau.com/app/profile/jialingteo/vizzes)
+
+## 🚀 Deployed Apps
+- 🤖 [Specific HDB Price Prediction App (New Model - More Features)](https://jayellehdbspecific.streamlit.app/)  
+- 🤖 [Generic HDB Price Prediction App (Old Model - More Generic and Accurate)](https://jayellehdbgeneral.streamlit.app/)  
+- 💼 [Fresh Grad Salary Predictor App](https://jayellesalary.streamlit.app/)  
+- 😂 [API Automated Dad Jokes Generator](https://jayelledadjokes.streamlit.app/)
+
+---
+
+Thanks for stopping by! Feel free to reach out or explore the repositories.
+You said:
+<table>
+  <tr>
+    <td width="220" valign="top">
+      <img src="https://raw.githubusercontent.com/jayelle0609/Portfolio/main/hero-bannerr.jpg" alt="Jia Ling" width="200" style="border-radius: 15px;" />
+    </td>
+    <td valign="top" style="padding-left: 20px;">
+      <h1>Hi, I'm Teo Jia Ling (Jayelle) 👋</h1>
       <p>Welcome to my GitHub Projects Page! <br><br><b> I'm passionate about data analysis, visualization, and making sense of complicated numbers. </b></p>
       <hr style="border:1px solid #eee;" />
       <p>Feel free to explore my portfolio, projects, visualizations, and deployed apps below.</p>
@@ -14,38 +56,70 @@
 
 <br />
 
-# Projects, Visualizations & Apps Developed
+
+# Give me another suitable header
+
 
 ---
 
 ## 🌐 Portfolio
-<ul>
-  <li><a href="https://jayelle0609.github.io/jialing/" target="_blank" rel="noopener noreferrer">Personal Portfolio Website</a></li>
-</ul>
+- [Personal Portfolio Website](https://jayelle0609.github.io/jialing/)
 
 ## 📂 GitHub Projects
-<ol>
-  <li><a href="https://github.com/jayelle0609/HDB_Historical_Price_Analysis/tree/main" target="_blank" rel="noopener noreferrer">Prediction of HDB Resale Prices</a></li>
-  <li><a href="https://github.com/jayelle0609/Graduate_Employment_Analysis" target="_blank" rel="noopener noreferrer">Graduate Employment Analysis</a></li>
-  <li><a href="https://github.com/jayelle0609/Test_scores_analysis" target="_blank" rel="noopener noreferrer">Student Test Scores Analysis</a></li>
-</ol>
+1. [Prediction of HDB Resale Prices](https://github.com/jayelle0609/HDB_Historical_Price_Analysis/tree/main)  
+2. [Graduate Employment Analysis](https://github.com/jayelle0609/Graduate_Employment_Analysis)  
+3. [Student Test Scores Analysis](https://github.com/jayelle0609/Test_scores_analysis)  
 
 ## 📊 Tableau Visualizations
-<ul>
-  <li><a href="https://public.tableau.com/app/profile/jialingteo/viz/GraduateOutcomesinSingapore/GrowthinHigherEducationParticipation19822023" target="_blank" rel="noopener noreferrer">Graduate Outcomes in Singapore</a></li>
-  <li><a href="https://public.tableau.com/app/profile/jialingteo/viz/GovernmentFiscalPositionSingapore/GovernmentExpenditureReportbyType" target="_blank" rel="noopener noreferrer">Government Fiscal Position (Singapore)</a></li>
-  <li><a href="https://public.tableau.com/app/profile/jialingteo/viz/HDBSalesPatternandPriceForecast/HDBHistoricalSalesAnalysisForecast" target="_blank" rel="noopener noreferrer">HDB Sales Pattern and Price Forecast</a></li>
-</ul>
+- [My Tableau Public Profile & Visualizations](https://public.tableau.com/app/profile/jialingteo/vizzes)
 
 ## 🚀 Deployed Apps
-<ul>
-  <li>🤖 <a href="https://jayellehdbspecific.streamlit.app/" target="_blank" rel="noopener noreferrer">Specific HDB Price Prediction App (New / Greater Specificity Model - More Features)</a></li>
-  <li>🤖 <a href="https://jayellehdbgeneral.streamlit.app/" target="_blank" rel="noopener noreferrer">Generic HDB Price Prediction App (Old / Generic Model - Offers Greater Accuracy)</a></li>
-  <li>💼 <a href="https://jayellesalary.streamlit.app/" target="_blank" rel="noopener noreferrer">Fresh Grad Salary Predictor App</a></li>
-  <li>😂 <a href="https://jayelledadjokes.streamlit.app/" target="_blank" rel="noopener noreferrer">API Automated Dad Jokes Generator</a></li>
-</ul>
-
+- 🤖 [Specific HDB Price Prediction App (New Model - More Features)](https://jayellehdbspecific.streamlit.app/)  
+- 🤖 [Generic HDB Price Prediction App (Old Model - More Generic and Accurate)](https://jayellehdbgeneral.streamlit.app/)  
+- 💼 [Fresh Grad Salary Predictor App](https://jayellesalary.streamlit.app/)  
+- 😂 [API Automated Dad Jokes Generator](https://jayelledadjokes.streamlit.app/)
 
 ---
 
 Thanks for stopping by! Feel free to reach out or explore the repositories.
+You said:
+can u make the links such that when they click it opens in a new tab? <table>
+  <tr>
+    <td width="220" valign="top">
+      <img src="https://raw.githubusercontent.com/jayelle0609/Portfolio/main/hero-bannerr.jpg" alt="Jia Ling" width="200" style="border-radius: 15px;" />
+    </td>
+    <td valign="top" style="padding-left: 20px;">
+      <h1>Hi, I'm Teo Jia Ling (Jayelle) 👋</h1>
+      <p>Welcome to my GitHub Projects Page! <br><br><b> I'm passionate about data analysis, visualization, and making sense of complicated numbers. </b></p>
+      <hr style="border:1px solid #eee;" />
+      <p>Feel free to explore my portfolio, projects, visualizations, and deployed apps below.</p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+
+# Projects, Visualizations & Apps Developed
+
+
+---
+
+## 🌐 Portfolio
+- [Personal Portfolio Website](https://jayelle0609.github.io/jialing/)
+
+## 📂 GitHub Projects
+1. [Prediction of HDB Resale Prices](https://github.com/jayelle0609/HDB_Historical_Price_Analysis/tree/main)  
+2. [Graduate Employment Analysis](https://github.com/jayelle0609/Graduate_Employment_Analysis)  
+3. [Student Test Scores Analysis](https://github.com/jayelle0609/Test_scores_analysis)  
+
+## 📊 Tableau Visualizations
+- [Graduate Outcomes in Singapore](https://public.tableau.com/app/profile/jialingteo/viz/GraduateOutcomesinSingapore/GrowthinHigherEducationParticipation19822023)
+- [Government Fiscal Position (Singapore)](https://public.tableau.com/app/profile/jialingteo/viz/GovernmentFiscalPositionSingapore/GovernmentExpenditureReportbyType)
+- [HDB Sales Pattern and Price Forecast](https://public.tableau.com/app/profile/jialingteo/viz/HDBSalesPatternandPriceForecast/HDBHistoricalSalesAnalysisForecast)
+
+## 🚀 Deployed Apps
+- 🤖 [Specific HDB Price Prediction App (New / Greater Specificity Model - More Features)](https://jayellehdbspecific.streamlit.app/)  
+- 🤖 [Generic HDB Price Prediction App (Old / Generic Model - Offers Greater Accuracy)](https://jayellehdbgeneral.streamlit.app/)  
+- 💼 [Fresh Grad Salary Predictor App](https://jayellesalary.streamlit.app/)  
+- 😂 [API Automated Dad Jokes Generator](https://jayelledadjokes.streamlit.app/)
