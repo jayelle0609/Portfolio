@@ -1,4 +1,4 @@
-![Jia Ling](https://raw.githubusercontent.com/jayelle0609/jayelle0609.github.io/main/images/profile.jpg)
+![Jia Ling](https://raw.githubusercontent.com/jayelle0609/jayelle0609.github.io/main/hero-bannerr.jpg)
 
 # Hi, I'm Jia Ling 👋
 
