@@ -28,7 +28,9 @@ Welcome to my GitHub! I'm passionate about data analysis, visualization, and bui
 3. [Student Test Scores Analysis](https://github.com/jayelle0609/Test_scores_analysis)  
 
 ## 📊 Tableau Visualizations
-- [My Tableau Public Profile & Visualizations](https://public.tableau.com/app/profile/jialingteo/vizzes)
+- [Graduate Outcomes in Singapore](https://public.tableau.com/app/profile/jialingteo/viz/GraduateOutcomesinSingapore/GrowthinHigherEducationParticipation19822023)
+- [Government Fiscal Position (Singapore)](https://public.tableau.com/app/profile/jialingteo/viz/GovernmentFiscalPositionSingapore/GovernmentExpenditureReportbyType)
+- [HDB Sales Pattern and Price Forecast](https://public.tableau.com/app/profile/jialingteo/viz/HDBSalesPatternandPriceForecast/HDBHistoricalSalesAnalysisForecast)
 
 ## 🚀 Deployed Apps
 - 🤖 [Specific HDB Price Prediction App (New Model - More Features)](https://jayellehdbspecific.streamlit.app/)  
