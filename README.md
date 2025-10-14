@@ -21,6 +21,7 @@ Welcome to my GitHub! I'm passionate about data analysis, visualization, and bui
 
 ## 🌐 Portfolio
 - [Personal Portfolio Website](https://jayelle0609.github.io/jialing/)
+- [Resume](https://drive.google.com/file/d/1Rq7kx1UOF96GE26drsnB5flgt6iCxdYP/view?usp=drive_link)
 
 ## 📂 GitHub Projects
 1. [Prediction of HDB Resale Prices](https://github.com/jayelle0609/HDB_Historical_Price_Analysis/tree/main)  
