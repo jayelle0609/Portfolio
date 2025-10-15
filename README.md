@@ -15,10 +15,6 @@
 
 # Projects Documentation & Apps Created 
 
-Welcome to my GitHub! I'm passionate about data analysis, visualization, and building impactful applications. Feel free to explore my portfolio, projects, visualizations, and deployed apps below.
-
----
-
 ## 🌐 Portfolio
 - [Personal Portfolio Website](https://jayelle0609.github.io/jialing/)
 
