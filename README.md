@@ -17,6 +17,7 @@
 
 ## 🌐 Portfolio
 - [Personal Portfolio Website](https://jayelle0609.github.io/jialing/)
+- [LinkedIn](https://www.linkedin.com/in/jialingteo/)
 
 ## 💻 Resume
 - [Resume](https://drive.google.com/file/d/1Rq7kx1UOF96GE26drsnB5flgt6iCxdYP/view?usp=drive_link)
