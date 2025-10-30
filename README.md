@@ -18,6 +18,8 @@
 ## 🌐 Portfolio
 - [Personal Portfolio Website](https://jayelle0609.github.io/jialing/)
 - [LinkedIn](https://www.linkedin.com/in/jialingteo/)
+- [NUS Degree Transcript](https://drive.google.com/file/d/1LkCUTbWGylObPXyr2eHP5Uhsru85-qW4/view)
+- [Machine Learning Certifications](https://drive.google.com/file/d/1S84PE0D8y3uVha78LZdDZjmA25Vl3xyK/view?usp=sharing)
 
 ## 💻 Resume
 - [Resume](https://drive.google.com/file/d/1Rq7kx1UOF96GE26drsnB5flgt6iCxdYP/view?usp=drive_link)
