@@ -27,8 +27,9 @@
 
 ## 📂 GitHub Projects
 1. [Prediction of HDB Resale Prices](https://github.com/jayelle0609/HDB_Historical_Price_Analysis/tree/main)  
-2. [Graduate Employment Analysis](https://github.com/jayelle0609/Graduate_Employment_Analysis)  
-3. [Student Test Scores Analysis](https://github.com/jayelle0609/Test_scores_analysis)  
+2. [Graduate Employment Analysis](https://github.com/jayelle0609/Graduate_Employment_Analysis)
+3. [Machine Learning Competition - Predicting Road Accident Risk with XGB Regressor Model](https://github.com/jayelle0609/Machine-Learning-Competitions-/blob/main/Predicting_Road_Accident_Risk/Predicting_Road_Accident_Risk.ipynb)  
+4. [Student Test Scores Analysis](https://github.com/jayelle0609/Test_scores_analysis)  
 
 ## 📊 Tableau Visualizations
 - [Graduate Outcomes in Singapore](https://public.tableau.com/app/profile/jialingteo/viz/GraduateOutcomesinSingapore/GrowthinHigherEducationParticipation19822023)
