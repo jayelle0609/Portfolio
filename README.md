@@ -18,6 +18,7 @@
 ## 🌐 Portfolio
 - [Personal Portfolio Website](https://jayelle0609.github.io/jialing/)
 - [LinkedIn](https://www.linkedin.com/in/jialingteo/)
+- [Tableau](https://public.tableau.com/app/profile/jialingteo/vizzes)
 
 ## 🎓 Academic Qualifications & Certifications
 
