@@ -35,7 +35,8 @@
    
 4. [Machine Learning Competition - Predicting Road Accident Risk with XGB Regressor Model](https://github.com/jayelle0609/Machine-Learning-Competitions-/blob/main/Predicting_Road_Accident_Risk/Predicting_Road_Accident_Risk.ipynb)
 5. [Machine Learning Competition - Loan Default Predictor with XGB Classifier Model](https://github.com/jayelle0609/Machine-Learning-Competitions-/blob/main/Predicting_Road_Accident_Risk/Predicting_Road_Accident_Risk.ipynb)  
-6. [Student Test Scores Analysis](https://github.com/jayelle0609/Test_scores_analysis)  
+6. [Student Test Scores Analysis](https://github.com/jayelle0609/Test_scores_analysis)
+7. [Data Cleaning and Tidying](https://github.com/jayelle0609/Tidying-Data-Files) 
 
 ## 📊 Tableau Visualizations 
 1. [Graduate Outcomes in Singapore](https://public.tableau.com/app/profile/jialingteo/viz/GraduateOutcomesinSingapore/GrowthinHigherEducationParticipation19822023)
