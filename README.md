@@ -45,8 +45,13 @@
 7. [Transportation Trends Across Singaporean Workers](https://public.tableau.com/app/profile/jialingteo/viz/TransportationTrendsAcrossSingaporeanWorkers/DistributionofSingaporesTransportationModes)
 8. [Manufacturing Sector - Key Performance Metrics](https://public.tableau.com/app/profile/jialingteo/viz/ManufactoringSector-KeyPerformanceMetrics/ManufacturingSector-KeyPerformanceMetrics)
 9. [Labour Market Dynamics – Foreign Workers](https://public.tableau.com/app/profile/jialingteo/viz/ForeignWorkersStatisticsinSG/ForeignWorkersStatisticsinSG)
-10. [Fun Project - Convincing a Friend for Holiday Extension by Visualizing the Low Opportunity Cost](https://public.tableau.com/app/profile/jialingteo/viz/Travel-Viz-Fun-Project/HowMuchWillLouissespendonherManilaTripwithJiaLing)
-11. [Where Did My Money Go?! Tracking My Budget](https://public.tableau.com/app/profile/jialingteo/viz/WhereDidMyMoneyGoTrackingMyBudget/VisualizingCostsonaPersonalHoliday2)
+
+## ✨🌅 Bad Life Decisions - Beautifully Visualized in Python / Tableau 💅🌄 
+*Analytical charts of my slightly regretable poor life choices, but totally justifable.. 💸*
+
+*Made purely out of a genuine love for charts and for a tickle of amusement 😭*
+1. [Fun Project - Convincing a Friend for Holiday Extension by Visualizing the Low Opportunity Cost](https://public.tableau.com/app/profile/jialingteo/viz/Travel-Viz-Fun-Project/HowMuchWillLouissespendonherManilaTripwithJiaLing)
+2. [Where Did My Money Go?! Tracking My Budget](https://public.tableau.com/app/profile/jialingteo/viz/WhereDidMyMoneyGoTrackingMyBudget/VisualizingCostsonaPersonalHoliday2)
 
 ## 🚀 Deployed Apps
 - 🤖 [Specific HDB Price Prediction App (New Model - More Features)](https://jayellehdbspecific.streamlit.app/)  
