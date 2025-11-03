@@ -18,9 +18,12 @@
 ## 🌐 Portfolio
 - [Personal Portfolio Website](https://jayelle0609.github.io/jialing/)
 - [LinkedIn](https://www.linkedin.com/in/jialingteo/)
+
+## 🎓 Academic Qualifications & Certifications
+
 - [Bachelor of Social Science in Economics (NUS)](https://drive.google.com/file/d/1LkCUTbWGylObPXyr2eHP5Uhsru85-qW4/view)
 - [Machine Learning & Tableau Certifications (NUS)](https://drive.google.com/file/d/1S84PE0D8y3uVha78LZdDZjmA25Vl3xyK/view?usp=sharing)
-- [Verify my credentials](https://www.credential.net/profile/jayelle0609/wallet)
+- [Verify My Credentials](https://www.credential.net/profile/jayelle0609/wallet)
 
 ## 💻 Resume
 - [Resume](https://drive.google.com/file/d/1Rq7kx1UOF96GE26drsnB5flgt6iCxdYP/view?usp=drive_link)
