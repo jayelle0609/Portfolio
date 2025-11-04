@@ -53,8 +53,8 @@
 *Analytical charts of my slightly regretable poor life choices, but totally justifable.. 💸*
 
 *Made purely out of a genuine love for charts and for a tickle of amusement 😭*
-1. [Fun Project - Convincing a Friend for Holiday Extension by Visualizing the Low Opportunity Cost](https://public.tableau.com/app/profile/jialingteo/viz/Travel-Viz-Fun-Project/HowMuchWillLouissespendonherManilaTripwithJiaLing)
-2. [Where Did My Money Go?! Tracking My Budget](https://public.tableau.com/app/profile/jialingteo/viz/WhereDidMyMoneyGoTrackingMyBudget/VisualizingCostsonaPersonalHoliday2)
+1. [Where Did My Money Go?! Tracking My Budget](https://public.tableau.com/app/profile/jialingteo/viz/WhereDidMyMoneyGoTrackingMyBudget/VisualizingCostsonaPersonalHoliday2)
+2. [Fun Project - Convincing a Friend for Holiday Extension by Visualizing the Low Opportunity Cost](https://public.tableau.com/app/profile/jialingteo/viz/Travel-Viz-Fun-Project/HowMuchWillLouissespendonherManilaTripwithJiaLing)
 
 ## 🚀 Deployed Apps
 - 🤖 [Specific HDB Price Prediction App (New Model - More Features)](https://jayellehdbspecific.streamlit.app/)  
