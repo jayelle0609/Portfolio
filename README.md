@@ -59,6 +59,8 @@
 - 🧠 [Regression Predictor App](https://jialingpredict.streamlit.app/)
   * These two apps were created solely for an **interview with Prime Ministers Office Communication Group** on 12-Nov-2025, for a **research analytics position**.
   * I wanted to create something that was useful for **forecasting predictions and clustering data** which could be used in the interviewers' daily work with data.
+  * *Simplifies machine learning workflow for non-technical users*
+  * **Useful for stakeholers without Python code knowledge**
   * Time taken to create these apps took me **1 ~ 2 days**, fully focused!
 - 🤖 [Specific HDB Price Prediction App (New Model - More Features)](https://jayellehdbspecific.streamlit.app/)  
 - 🤖 [Generic HDB Price Prediction App (Old Model - More Generic and Accurate)](https://jayellehdbgeneral.streamlit.app/)  
