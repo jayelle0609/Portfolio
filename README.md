@@ -55,6 +55,10 @@
 11. [Fun Project - Convincing a Friend for Holiday Extension by Visualizing the Low Opportunity Cost](https://public.tableau.com/app/profile/jialingteo/viz/Travel-Viz-Fun-Project/HowMuchWillLouissespendonherManilaTripwithJiaLing)
 
 ## 🚀 Deployed Apps
+- 🌀 [KMeans Clustering App](https://jialingkmeans.streamlit.app/)
+- 🧠 [Regression Predictor App](https://jialingpredict.streamlit.app/)
+  * These two apps were created solely for an **interview with Prime Ministers Office Communication Group** on 12-Nov-2025, for a **research analytics position**.
+  * I wanted to create something that was useful for **forecasting predictions and clustering data** which could be used in the interviewers' daily work with data.
 - 🤖 [Specific HDB Price Prediction App (New Model - More Features)](https://jayellehdbspecific.streamlit.app/)  
 - 🤖 [Generic HDB Price Prediction App (Old Model - More Generic and Accurate)](https://jayellehdbgeneral.streamlit.app/)  
 - 💼 [Fresh Grad Salary Predictor App](https://jayellesalary.streamlit.app/)  
