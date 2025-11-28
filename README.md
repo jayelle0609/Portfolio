@@ -57,6 +57,7 @@
 
 ## 🚀 Deployed Apps
 - 🌀 [KMeans Clustering App](https://jialingkmeans.streamlit.app/)
+- 🌀 [HR Analytics App](https://jialinghrapp.streamlit.app/)
 - 🧠 [Regression Predictor App](https://jialingpredict.streamlit.app/)
   * These two apps were created solely for an **interview with Prime Ministers Office Communication Group** on 12-Nov-2025, for a **research analytics position**.
   * I wanted to create something that was useful for **forecasting predictions and clustering data** which could be used in the interviewers' daily work with data.
