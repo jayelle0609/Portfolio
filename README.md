@@ -57,6 +57,7 @@
 
 ## 🚀 Deployed Apps
 - 🌀 [KMeans Clustering App](https://jialingkmeans.streamlit.app/)
+- 🌀 [Medical Education — Residency Training Management App](https://nhgmedical.streamlit.app/)
 - 🌀 [HR Analytics App](https://jialinghrapp.streamlit.app/)
 - 🧠 [Regression Predictor App](https://jialingpredict.streamlit.app/)
   * These two apps were created solely for an **interview with Prime Ministers Office Communication Group** on 12-Nov-2025, for a **research analytics position**.
