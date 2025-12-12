@@ -59,7 +59,7 @@
 - 🌀 [KMeans Clustering App](https://jialingkmeans.streamlit.app/)
 - 🏥 [Medical Education — Residency Training Management App](https://nhgmedical.streamlit.app/)
   * This app was created for an **interview with National Healthcare Group** on 11-Dec-2025, for a **Programme Coordinator** role in Residency Ops.
-  * **Automates the administration workflow and visualization of residency training programmes** for doctors pursuing postgraduate medical education.
+  * **Automates the administration workflow and data visualization of residency training programmes** for doctors pursuing postgraduate medical education.
 - 🌀 [HR Analytics App](https://jialinghrapp.streamlit.app/)
 - 🧠 [Regression Predictor App](https://jialingpredict.streamlit.app/)
   * These two apps were created solely for an **interview with Prime Ministers Office Communication Group** on 12-Nov-2025, for a **research analytics position**.
